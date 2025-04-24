@@ -48,6 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Lucas-Tales1/Lucas-Tales1/output/snake.svg" alt="Snake animation" />
+
 
 ###
