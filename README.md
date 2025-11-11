@@ -1,4 +1,4 @@
-<h1 align="left">Hey What's up? I'm Lucas Tales, an aspiring full stack developer</h1>
+<h1 align="left">Hey, What's up? I'm Lucas Tales, an aspiring full stack developer</h1>
 
 ###
 
