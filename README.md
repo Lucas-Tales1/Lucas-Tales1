@@ -1,10 +1,6 @@
 <h1 align="left">Hey What's up? I'm Lucas Tales, an aspiring full stack developer</h1>
 
 ###
-<div align="center"> <p>Visitor count</p> <img src="https://profile-counter.glitch.me/{Lucas-Tales1}/count.svg" alt="Visitor's Count" /> </div>
-<h2 align="left">About me</h2>
-
-###
 
 <p align="left">📚 I'm currently learning Web Development<br>🎯 Goals: Transition to a full-time role in Web Development<br>🎲 Fun fact: I like audiovisual productions</p>
 
