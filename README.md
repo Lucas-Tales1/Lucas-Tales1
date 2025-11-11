@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Web Development<br>🎯 Goals: Transition to a full-time role in Web Development<br>🎲 Fun fact: I like audiovisual productions</p>
+<img src="banner-github.png" alt="desenho minimalista">
 
 ###
 
@@ -11,16 +11,28 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <h3>Backend<h3/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="80" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain-wordmark.svg" height="80" alt="django logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src ="https://github.com/devicons/devicon/blob/v2.17.0/icons/djangorest/djangorest-original.svg" height="80" alt="django rest logo" />
+  <img width="12">
+  <img src ="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" height="80" alt="postgresql logo" />
+  <img width="12">
+  <h3>Frontend</h3>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg" height="80" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="40" alt="git logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" height="80" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" height="80" alt="react logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="80" alt="tailwindcss logo" />
+  <img width="12" />
+  <h3>DevOps</h3>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" height="80" alt="git logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" height="80" alt="git logo"  />
   <img width="12" />
 </div>
 
