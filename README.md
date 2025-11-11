@@ -1,7 +1,7 @@
 <h1 align="left">Hey What's up? I'm Lucas Tales, an aspiring full stack developer</h1>
 
 ###
-<div align="center"> <p>Visitor count</p> <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" /> </div>
+<div align="center"> <p>Visitor count</p> <img src="https://profile-counter.glitch.me/{Lucas-Tales1}/count.svg" alt="Visitor's Count" /> </div>
 <h2 align="left">About me</h2>
 
 ###
