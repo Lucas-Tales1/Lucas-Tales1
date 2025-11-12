@@ -2,7 +2,7 @@
 
 ###
 
-<img width="720" height="480" src="banner-github.png" alt="desenho minimalista">
+<img width="720" height="480" src="banner.jpeg" alt="desenho minimalista">
 
 ###
 
