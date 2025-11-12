@@ -6,6 +6,14 @@
 
 ###
 
+<h2 align="left">About me</h2>
+<div style="display:flex">
+  <p>Hello! My name is Lucas Tales and I'm an aspiring full-stack developer. I enjoy transforming ideas into functional, modern, and attractive applications, always seeking to learn new technologies and improve my skills</p>
+  <img src="gif.gif" alt="cachorrinho programando">
+</div>
+
+###
+
 <div align="left">
   <h3>Backend<h3/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="80" alt="python logo"  />
