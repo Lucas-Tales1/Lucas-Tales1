@@ -1,7 +1,3 @@
-<h1 align="left">Hey, What's up? I'm Lucas Tales, an aspiring full stack developer</h1>
-
-###
-
 <img width="720" height="480" src="banner.jpg" alt="desenho minimalista">
 
 ###
