@@ -2,17 +2,26 @@
 
 ###
 
-<h2 align="left">Technologies</h2>
-
-###
-
 <h2 align="left">About me</h2>
-<div style="display:flex">
-  <p>Hello! My name is Lucas Tales and I'm an aspiring full-stack developer. I enjoy transforming ideas into functional, modern, and attractive applications, always seeking to learn new technologies and improve my skills</p>
-  <img src="gif.gif" alt="cachorrinho programando">
-</div>
+
+<table>
+  <tr>
+    <td width="100%">
+      <p>
+        Hello! My name is Lucas Tales and I'm an aspiring full-stack developer.<br>
+        I enjoy transforming ideas into functional, modern, and attractive applications,<br>
+        always seeking to learn new technologies and improve my skills.
+      </p>
+    </td>
+    <td align="center" width="40%">
+      <img src="gif.gif" alt="cachorrinho programando" width="180"/>
+    </td>
+  </tr>
+</table>
 
 ###
+
+<h2 align="left">Technologies</h2>
 
 <div align="left">
   <h3>Backend<h3/>
