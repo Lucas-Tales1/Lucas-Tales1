@@ -43,9 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="80" alt="tailwindcss logo" />
   <img width="12" />
   <h3>DevOps</h3>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" height="80" alt="git logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" height="80" alt="git logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" height="80" alt="docker logo" />
   <img width="12" />
 </div>
 
