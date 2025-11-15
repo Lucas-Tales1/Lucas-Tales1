@@ -1,4 +1,4 @@
-<img width="720" height="480" src="banner.jpg" alt="desenho minimalista">
+<img width="720" height="480" src="banner.svg" alt="desenho minimalista">
 
 ###
 
