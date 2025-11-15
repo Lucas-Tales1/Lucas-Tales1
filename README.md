@@ -1,4 +1,4 @@
-<img width="720" height="480" src="banner.svg" alt="desenho minimalista">
+<img src="banner.svg" alt="desenho minimalista">
 
 ###
 
