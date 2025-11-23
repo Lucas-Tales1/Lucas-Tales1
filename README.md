@@ -49,7 +49,12 @@
 
 ###
 
-<div display="flex">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=lucas-tales1&show_icons=true)
-  <img src="octocat.png" width="300" height="auto" alt="octocat"/>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucas-tales1&show_icons=true&theme=transparent" 
+    alt="GitHub Stats" 
+    height="180"
+  />
+
+  <img src="octocat.png" width="200" alt="octocat"/>
 </div>
