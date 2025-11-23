@@ -49,6 +49,7 @@
 
 ###
 
-<div align="center">
+<div display="flex">
+  ![Lucas Tales GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Tales1&show_icons=true&theme=transparent)
   <img src="octocat.png" width="300" height="auto" alt="octocat"/>
 </div>
