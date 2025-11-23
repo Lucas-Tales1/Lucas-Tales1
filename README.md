@@ -4,16 +4,14 @@
 
 <h2 align="left">About me</h2>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="100%">
-      <p>
-        Hello! My name is Lucas Tales and I'm an aspiring full-stack developer.<br>
-        I enjoy transforming ideas into functional, modern, and attractive applications,<br>
-        always seeking to learn new technologies and improve my skills.
-      </p>
+    <td style="vertical-align: middle; padding-right: 20px; border: none;">
+      Hello! My name is Lucas Tales and I'm an aspiring full-stack developer.<br>
+      I enjoy transforming ideas into functional, modern, and attractive applications,<br>
+      always seeking to learn new technologies and improve my skills.
     </td>
-    <td align="center" width="40%">
+    <td style="vertical-align: middle; border: none;">
       <img src="gif.gif" alt="cachorrinho programando" width="180"/>
     </td>
   </tr>
