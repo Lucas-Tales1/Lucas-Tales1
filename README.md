@@ -48,3 +48,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="octocat.png" width="300" height="auto" alt="octocat"/>
+</div>
