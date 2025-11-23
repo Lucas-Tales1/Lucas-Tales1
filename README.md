@@ -19,6 +19,20 @@
 
 ###
 
+<h2>Statistics</h2>
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Lucas-Tales1&show_icons=true&theme=transparent" 
+    alt="GitHub Stats" 
+    height="180"
+  />
+
+  <img src="octocat.png" width="200" alt="octocat"/>
+</div>
+
+###
+
 <h2 align="left">Technologies</h2>
 
 <div align="left">
@@ -43,18 +57,4 @@
   <h3>DevOps</h3>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" height="80" alt="docker logo" />
   <img width="12" />
-</div>
-
-###
-
-<h2>Statistics</h2>
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Lucas-Tales1&show_icons=true&theme=transparent" 
-    alt="GitHub Stats" 
-    height="180"
-  />
-
-  <img src="octocat.png" width="200" alt="octocat"/>
 </div>
