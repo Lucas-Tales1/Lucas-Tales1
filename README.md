@@ -1,4 +1,4 @@
-<img src="banner.jpg" alt="desenho minimalista">
+<img src="banner.jpg" alt="banner">
 
 ###
 
